@@ -1,1 +1,3 @@
-print("hello world")
+dev main(msg):
+print(msg)
+main("HELLO people")
